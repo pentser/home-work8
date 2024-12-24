@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    box-shadow: 5px 5px 5px rgba(37, 36, 36, 0.682);
+    margin:15px;
+    border:1px solid rgba(216, 204, 204, 0.634);
+    border-radius: 5px;
+    min-width: 300px
+    
+}
+
+h2 {
+    color:crimson
+}
